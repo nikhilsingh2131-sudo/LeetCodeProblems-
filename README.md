@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0560-subarray-sum-equals-k) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0438-find-all-anagrams-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
