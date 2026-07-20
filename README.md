@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0844-backspace-string-compare) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0128-longest-consecutive-sequence) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0155-min-stack) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0042-trapping-rain-water) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0739-daily-temperatures) |
