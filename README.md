@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0230-kth-smallest-element-in-a-bst) |
