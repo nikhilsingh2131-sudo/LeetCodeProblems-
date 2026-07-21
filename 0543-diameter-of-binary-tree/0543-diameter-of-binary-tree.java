@@ -14,33 +14,22 @@
  * }
  */
 class Solution {
-
-    int diameter = 0;
-
+    int diameter =0;
     public int diameterOfBinaryTree(TreeNode root) {
-
-        height(root);
-
-        return diameter;
+    height(root);
+     return diameter;
+        
     }
 
-    public int height(TreeNode root){
-
-        // Empty tree ki height
+    int height(TreeNode root){
         if(root == null){
             return 0;
         }
-
-        // Left subtree ki height
         int left = height(root.left);
-
-        // Right subtree ki height
         int right = height(root.right);
 
-        // Current node se diameter
-        diameter = Math.max(diameter, left + right);
+        diameter = Math.max(diameter , left+right);
 
-        // Height return karo
-        return Math.max(left, right) + 1;
+        return Math.max(left , right)+1;
     }
 }
