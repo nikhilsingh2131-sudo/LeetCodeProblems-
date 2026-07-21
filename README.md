@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
