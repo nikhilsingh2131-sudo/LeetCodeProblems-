@@ -1,17 +1,16 @@
 class Solution {
-    public int orangesRotting(int[][] grid) {
 
-        int m = grid.length;
-        int n = grid[0].length;
+    public int orangesRotting(int[][] grid) {
 
         Queue<int[]> q = new LinkedList<>();
 
         int fresh = 0;
+        int row = grid.length;
+        int col = grid[0].length;
 
-        // Step 1: Sabhi rotten oranges queue me daal do
-        // Aur fresh oranges count kar lo
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
+        // Rotten queue me daalo aur fresh count karo
+        for (int i = 0; i < row; i++) {
+            for (int j = 0; j < col; j++) {
 
                 if (grid[i][j] == 2) {
                     q.offer(new int[]{i, j});
@@ -23,69 +22,41 @@ class Solution {
             }
         }
 
-        // Agar fresh orange hi nahi hai
-        if (fresh == 0) {
-            return 0;
-        }
+        int minute = 0;
 
-        int minutes = 0;
+        int[] dr = {-1, 1, 0, 0};
+        int[] dc = {0, 0, -1, 1};
 
-        // 4 Directions (Down, Up, Right, Left)
-        int[][] dir = {
-            {1, 0},
-            {-1, 0},
-            {0, 1},
-            {0, -1}
-        };
-
-        // Jab tak queue empty nahi hoti aur fresh bache hain
         while (!q.isEmpty() && fresh > 0) {
 
             int size = q.size();
 
-            // Queue ke current level ko process karo
-            // Ye ek minute represent karta hai
             for (int i = 0; i < size; i++) {
 
                 int[] curr = q.poll();
 
-                int x = curr[0];
-                int y = curr[1];
+                int r = curr[0];
+                int c = curr[1];
 
-                // 4 neighbours check karo
-                for (int[] d : dir) {
+                for (int k = 0; k < 4; k++) {
 
-                    int nx = x + d[0];
-                    int ny = y + d[1];
+                    int nr = r + dr[k];
+                    int nc = c + dc[k];
 
-                    // Boundary ke andar hona chahiye
-                    // Aur fresh orange hona chahiye
-                    if (nx >= 0 && nx < m &&
-                        ny >= 0 && ny < n &&
-                        grid[nx][ny] == 1) {
+                    if (nr >= 0 && nr < row &&
+                        nc >= 0 && nc < col &&
+                        grid[nr][nc] == 1) {
 
-                        // Fresh ko rotten bana do
-                        grid[nx][ny] = 2;
-
-                        // Fresh count kam karo
+                        grid[nr][nc] = 2;
                         fresh--;
-
-                        // Queue me daal do taaki next minute
-                        // ye bhi apne neighbours ko infect kare
-                        q.offer(new int[]{nx, ny});
+                        q.offer(new int[]{nr, nc});
                     }
                 }
             }
 
-            // Ek level complete = Ek minute
-            minutes++;
+            minute++;
         }
 
-        // Agar abhi bhi fresh bache hain
-        if (fresh > 0) {
-            return -1;
-        }
-
-        return minutes;
+        return fresh == 0 ? minute : -1;
     }
 }
