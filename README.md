@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1657-determine-if-two-strings-are-close) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0739-daily-temperatures) |
+| [0997-find-the-town-judge](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0997-find-the-town-judge) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2685-count-the-number-of-complete-components) |
