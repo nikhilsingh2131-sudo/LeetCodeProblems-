@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0844-backspace-string-compare) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0239-sliding-window-maximum) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3312-sorted-gcd-pair-queries) |
