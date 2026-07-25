@@ -16,8 +16,7 @@ class Solution {
             }else{
                 right--;
             }
-            
-           
+              
         }
 
         return max;
