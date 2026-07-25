@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0127-word-ladder) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0084-largest-rectangle-in-histogram) |
