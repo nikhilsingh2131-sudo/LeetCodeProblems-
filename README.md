@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0523-continuous-subarray-sum) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0844-backspace-string-compare) |
