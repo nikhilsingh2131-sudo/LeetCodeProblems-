@@ -1,59 +1,55 @@
-import java.util.*;
-
 class Solution {
     public String decodeString(String s) {
 
-        Stack<String> st1 = new Stack<>();
-        Stack<Integer> st2 = new Stack<>();
+        Stack<Integer> st1 = new Stack<>();
+        Stack<String> st2 = new Stack<>();
 
-        String str = "";
-        int n = 0;
+        int num = 0;
 
-        for (int i = 0; i < s.length(); i++) {
+        for (char ch : s.toCharArray()) {
 
-            char ch = s.charAt(i);
-
-            // Digit
             if (Character.isDigit(ch)) {
 
-                n = n * 10 + (ch - '0');
+                num = num * 10 + (ch - '0');
 
-            }
-            // Opening bracket
-            else if (ch == '[') {
+            } else if (ch == '[') {
 
-                st1.push(str);
-                st2.push(n);
+                st1.push(num);
+                num = 0;
+                st2.push("[");
 
-                str = "";
-                n = 0;
+            } else if (Character.isLetter(ch)) {
 
-            }
-            // Closing bracket
-            else if (ch == ']') {
+                st2.push(String.valueOf(ch));
 
-                String prev = st1.pop();
-                int repeat = st2.pop();
+            } else if (ch == ']') {
 
-                StringBuilder res = new StringBuilder();
+                StringBuilder curr = new StringBuilder();
 
-                res.append(prev);
-
-                for (int j = 0; j < repeat; j++) {
-                    res.append(str);
+                while (!st2.isEmpty() && !st2.peek().equals("[")) {
+                    curr.insert(0, st2.pop());   // reverse order maintain
                 }
 
-                str = res.toString();
+                st2.pop(); // remove "["
 
-            }
-            // Character
-            else {
+                int repeat = st1.pop();
 
-                str = str + ch;
+                StringBuilder temp = new StringBuilder();
 
+                for (int i = 0; i < repeat; i++) {
+                    temp.append(curr);
+                }
+
+                st2.push(temp.toString());
             }
         }
 
-        return str;
+        StringBuilder ans = new StringBuilder();
+
+        while (!st2.isEmpty()) {
+            ans.insert(0, st2.pop());
+        }
+
+        return ans.toString();
     }
 }
