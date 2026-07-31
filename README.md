@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0495-teemo-attacking) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0561-array-partition) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0409-longest-palindrome) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
