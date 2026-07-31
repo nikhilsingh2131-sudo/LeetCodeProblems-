@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0443-string-compression) |
+| [0475-heaters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0905-sort-array-by-parity) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0475-heaters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0496-next-greater-element-i) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0475-heaters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0475-heaters) |
 | [0561-array-partition](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0905-sort-array-by-parity) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0475-heaters) |
 | [0875-koko-eating-bananas](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1539-kth-missing-positive-number) |
