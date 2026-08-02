@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0994-rotting-oranges) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0152-maximum-product-subarray) |
 | [0337-house-robber-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0877-stone-game) |
 ## Binary Indexed Tree
 |  |
 | ------- |
