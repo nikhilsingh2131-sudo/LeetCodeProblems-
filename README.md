@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0202-happy-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0523-continuous-subarray-sum) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0394-decode-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1938-maximum-genetic-difference-query) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3514-number-of-unique-xor-triplets-ii) |
