@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0441-arranging-coins) |
+| [0477-total-hamming-distance](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0493-reverse-pairs) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0477-total-hamming-distance) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1938-maximum-genetic-difference-query) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3514-number-of-unique-xor-triplets-ii) |
