@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0523-continuous-subarray-sum) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0844-backspace-string-compare) |
