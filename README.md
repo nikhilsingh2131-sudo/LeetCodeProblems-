@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0997-find-the-town-judge](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0994-rotting-oranges](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1051-height-checker) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0477-total-hamming-distance) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1938-maximum-genetic-difference-query) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3514-number-of-unique-xor-triplets-ii) |
