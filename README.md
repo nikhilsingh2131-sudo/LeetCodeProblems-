@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1672-richest-customer-wealth](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1920-build-array-from-permutation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1920-build-array-from-permutation) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1672-richest-customer-wealth) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3286-find-a-safe-walk-through-a-grid) |
