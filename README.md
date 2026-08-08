@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1938-maximum-genetic-difference-query) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1657-determine-if-two-strings-are-close) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
