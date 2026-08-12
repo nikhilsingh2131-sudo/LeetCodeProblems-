@@ -5,28 +5,26 @@ class Solution {
         long second = Long.MIN_VALUE;
         long third = Long.MIN_VALUE;
 
-        for (int num : nums) {
+        for (int i = 0; i < nums.length; i++) {
 
-            // Duplicate ko ignore karo
-            if (num == first || num == second || num == third) {
+            if (nums[i] == first || nums[i] == second || nums[i] == third) {
                 continue;
             }
 
-            if (num > first) {
+            if (nums[i] > first) {
                 third = second;
                 second = first;
-                first = num;
+                first = nums[i];
 
-            } else if (num > second) {
+            } else if (nums[i] > second) {
                 third = second;
-                second = num;
+                second = nums[i];
 
-            } else if (num > third) {
-                third = num;
+            } else if (nums[i] > third) {
+                third = nums[i];
             }
         }
 
-        // Agar third maximum exist nahi karta
         if (third == Long.MIN_VALUE) {
             return (int) first;
         }
