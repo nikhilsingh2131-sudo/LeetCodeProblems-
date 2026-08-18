@@ -1,40 +1,51 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
 
+        ArrayList<List<Integer>> graph = new ArrayList<>();
 
-        List<List<Integer>> graph = new ArrayList<>();
-
-        for(int i=0 ; i< n ;i++){
-            graph.add( new ArrayList<>());
+        // Graph ke n nodes create karo
+        for (int i = 0; i < n; i++) {
+            graph.add(new ArrayList<>());
         }
 
-        for(int[]edge : edges){
-            graph.get(edge[0]).add(edge[1]);
-            graph.get(edge[1]).add(edge[0]);
+        // Undirected graph
+        for (int[] edge : edges) {
+
+            int u = edge[0];
+            int v = edge[1];
+
+            graph.get(u).add(v);
+            graph.get(v).add(u);
         }
 
         boolean[] visited = new boolean[n];
 
-        return dfs(graph , visited , source , destination);
-        
+        return dfs(graph, source, destination, visited);
     }
 
-    private boolean dfs(List<List<Integer>> graph,
-                        boolean[] visited,
-                        int node,
-                        int destination) {
-    if (node == destination)return true;
-    
-    visited[node]=true;
+    private boolean dfs(ArrayList<List<Integer>> graph,
+                        int current,
+                        int destination,
+                        boolean[] visited) {
 
-    for(int nei:graph.get(node)){
-        if(!visited[nei]){
-            if(dfs(graph , visited , nei , destination)){
-                return true;
+        // Destination mil gaya
+        if (current == destination) {
+            return true;
+        }
+
+        visited[current] = true;
+
+        // Neighbours check
+        for (int nei : graph.get(current)) {
+
+            if (!visited[nei]) {
+
+                if (dfs(graph, nei, destination, visited)) {
+                    return true;
+                }
             }
         }
-    }
-    return false ;
 
-   }
+        return false;
+    }
 }
