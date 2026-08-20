@@ -1,17 +1,13 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
 
-        Queue<Character> q = new LinkedList<>();
-
-        for(char ch : s.toCharArray()){
-            q.offer(ch);
-        }
-
-        for(char  ch:t.toCharArray()){
-            if(!q.isEmpty() && ch == q.peek()){
-                q.poll();
+        int i =0;
+        for(int  j =0 ; j<t.length() ; j++){
+            if(i<s.length() && s.charAt(i) == t.charAt(j)){
+                i++;
             }
         }
-        return q.isEmpty();
+
+        return i == s.length();
     }
 }
