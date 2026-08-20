@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1920-build-array-from-permutation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1920-build-array-from-permutation) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
