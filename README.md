@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0475-heaters) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0409-longest-palindrome) |
