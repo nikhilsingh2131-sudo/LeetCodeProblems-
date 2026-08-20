@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0905-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1657-determine-if-two-strings-are-close) |
+| [1768-merge-strings-alternately](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
