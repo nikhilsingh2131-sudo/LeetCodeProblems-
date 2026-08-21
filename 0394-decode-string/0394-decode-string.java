@@ -1,34 +1,38 @@
 class Solution {
     public String decodeString(String s) {
-        Stack<Integer> number = new Stack<>();
-        Stack<String> string = new Stack<>();
 
-        String current ="";
-        int n =0;
+        Stack<String> st1= new Stack<>();
+         Stack<Integer> st2= new Stack<>();
 
-        for(char ch : s.toCharArray()){
-            if (Character.isDigit(ch)){
-                n = n*10 +(ch - '0');
+         int num =0 ;
+         String current = "";
+
+         for(char ch :s.toCharArray()){
+            
+            if(Character.isDigit(ch)){
+               num = num*10+(ch-'0');
             }else if(ch == '['){
-                number.push(n);
-                string.push(current);
+                st2.push(num);
+                st1.push(current);
+
+                num=0;
                 current ="";
-                n=0;
-            }else if(ch==']'){
-                String prev = string.pop();
-                int count = number.pop();
+                
+            }else if(ch ==']'){
+                String prev = st1.pop();
+                int repeat = st2.pop();
+
                 String temp ="";
 
-                for(int i =0 ; i<count ;i++){
-                    temp += current ;
+                for(int i =0 ;i<repeat ; i++){
+                    temp += current;
                 }
-                current = prev+temp;
+                current = prev + temp;
             }else{
-                current +=ch;
+                current += ch;
             }
+         }
 
-        }
-        return current;
-        
+        return current ;
     }
 }
