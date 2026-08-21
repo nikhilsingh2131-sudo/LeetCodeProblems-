@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0981-time-based-key-value-store) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0997-find-the-town-judge](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0997-find-the-town-judge) |
+| [1207-unique-number-of-occurrences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1295-find-numbers-with-even-number-of-digits) |
