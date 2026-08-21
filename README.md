@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1510-stone-game-iv) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0743-network-delay-time) |
 | [0872-leaf-similar-trees](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0993-cousins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1938-maximum-genetic-difference-query) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0993-cousins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0993-cousins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -930,4 +934,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0182-duplicate-emails) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
