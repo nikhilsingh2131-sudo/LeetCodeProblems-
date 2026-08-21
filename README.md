@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0981-time-based-key-value-store](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0981-time-based-key-value-store) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0933-number-of-recent-calls) |
 ## Binary Search
 |  |
