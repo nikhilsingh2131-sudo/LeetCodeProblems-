@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1938-maximum-genetic-difference-query) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3620-network-recovery-pathways) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0981-time-based-key-value-store) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2336-smallest-number-in-infinite-set) |
 ## Minimax
 |  |
 | ------- |
