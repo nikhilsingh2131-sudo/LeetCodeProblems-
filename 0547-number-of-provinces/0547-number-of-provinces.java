@@ -6,27 +6,24 @@ class Solution {
 
      int provinces = 0;
 
-
-     for(int i =0 ;i<n ;i++){
+     for(int i =0 ; i< isConnected.length ; i++){
         if(!visited[i]){
             provinces++;
-         dfs(isConnected, visited, i);
-
+            dfs(i , isConnected , visited);
         }
-
      }
-
-     return provinces;
+     return provinces ;
 
     }
-    public void dfs(int[][] graph , boolean[] visited , int node){
-        visited[node] = true;
+    public void dfs(int city  ,int[][] isConnected, boolean[] vis ){
+        vis[city] = true ;
 
-        for(int nei=0 ; nei< graph.length ; nei++){
-            if(graph[node][nei]==1 && !visited[nei]){
-                  dfs(graph, visited, nei);
-
-            }
-        }
+          for (int neighbour = 0;
+             neighbour < isConnected.length;
+             neighbour++){
+                if(isConnected[city][neighbour]==1 && !vis[neighbour]){
+                    dfs(neighbour , isConnected , vis);
+                }
+             }
     }
 }
