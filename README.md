@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0424-longest-repeating-character-replacement) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0695-max-area-of-island) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0684-redundant-connection) |
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0743-network-delay-time) |
@@ -629,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3620-network-recovery-pathways) |
@@ -682,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0543-diameter-of-binary-tree) |
@@ -955,4 +962,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
