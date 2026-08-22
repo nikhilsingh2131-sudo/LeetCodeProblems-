@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0152-maximum-product-subarray) |
 | [0337-house-robber-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0877-stone-game) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0190-reverse-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0476-number-complement) |
