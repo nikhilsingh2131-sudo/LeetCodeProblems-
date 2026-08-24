@@ -3,20 +3,21 @@ class Solution {
 
         HashMap<String, List<String>> map = new HashMap<>();
 
-     for(String str : strs){
+        for (String st : strs) {
 
-        char[] ch = str.toCharArray();
-        Arrays.sort(ch);
+            char[] chars = st.toCharArray();
+            Arrays.sort(chars);
 
-        String key = new String(ch);
+            String curr = new String(chars);
 
-        map.putIfAbsent(key , new ArrayList<>());
+            if (map.containsKey(curr)) {
+                map.get(curr).add(st);
+            } else {
+                map.put(curr, new ArrayList<>());
+                map.get(curr).add(st);
+            }
+        }
 
-     
-            map.get(key).add(str);
-        
-
-     }
-     return new ArrayList<>(map.values());
+        return new ArrayList<>(map.values());
     }
 }
