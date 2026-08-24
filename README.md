@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1406-stone-game-iii) |
@@ -1026,4 +1028,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0051-n-queens) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
