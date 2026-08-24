@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1920-build-array-from-permutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1938-maximum-genetic-difference-query) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -914,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2029-stone-game-ix) |
 ## Binary Indexed Tree
 |  |
@@ -930,12 +935,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
