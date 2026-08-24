@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0318-maximum-product-of-word-lengths) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0303-range-sum-query-immutable) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0208-implement-trie-prefix-tree) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1938-maximum-genetic-difference-query) |
 ## Counting Sort
 |  |
