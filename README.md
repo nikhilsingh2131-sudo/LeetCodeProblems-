@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0127-word-ladder) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0152-maximum-product-subarray) |
