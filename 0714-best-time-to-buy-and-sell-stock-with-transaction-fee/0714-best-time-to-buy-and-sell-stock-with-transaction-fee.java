@@ -20,7 +20,7 @@ class Solution {
                 // Important:
                 // Sell ke baad effective buy price
                 // ko adjust karna hai
-                buy = prices[i] - fee;
+                buy = prices[i]-fee;
             }
         }
 
