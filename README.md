@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0049-group-anagrams) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0062-unique-paths) |
@@ -1063,4 +1066,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1143-longest-common-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
