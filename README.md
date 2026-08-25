@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0498-diagonal-traverse) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0124-binary-tree-maximum-path-sum) |
