@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0202-happy-number) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0070-climbing-stairs) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Trie
 |  |
