@@ -1,38 +1,51 @@
-import java.util.*;
-
 class Solution {
     public int[] sortArray(int[] nums) {
 
-        HashMap<Integer, Integer> mp = new HashMap<>();
+        mergeSort( nums , 0 , nums.length-1);
+        return nums ;
+        
+    }
+    private void mergeSort(int[]nums , int left , int right){
 
-        // Frequency count
-        for (int num : nums) {
-            mp.put(num, mp.getOrDefault(num, 0) + 1);
+        if(left>=right){
+            return ;
         }
 
-        int min = nums[0];
-        int max = nums[0];
+        int mid = left+(right-left)/2;
 
-        // Find min and max
-        for (int num : nums) {
-            min = Math.min(min, num);
-            max = Math.max(max, num);
-        }
+        mergeSort(nums , left ,mid);
+        mergeSort(nums , mid+1 , right);
 
-        int i = 0;
+        merge(nums , left , mid , right);
+    }
 
-        // min se max tak
-        for (int num = min; num <= max; num++) {
+    private void merge(int[]nums , int left , int mid , int right){
+        int temp[] = new int[right - left +1];
 
-            while (mp.getOrDefault(num, 0) > 0) {
+        int i = left ; 
+        int j = mid+1 ;
+        int k = 0 ;
 
-                nums[i] = num;
+        while(i<= mid && j<= right){
+            if(nums[i]<=nums[j]){
+                temp[k++] = nums[i];
                 i++;
-
-                mp.put(num, mp.get(num) - 1);
+            }else{
+                temp[k++] = nums[j];
+                j++;
             }
         }
 
-        return nums;
+        while(i<=mid){
+            temp[k++] = nums[i++];
+        }
+
+        while(j<= right){
+            temp[k++] = nums[j++];
+        }
+
+        for(int x=0 ; x<temp.length ; x++){
+            nums[left + x] =temp[x];
+        }
     }
 }
