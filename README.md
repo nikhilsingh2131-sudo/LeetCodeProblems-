@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2542-maximum-subsequence-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
