@@ -2,7 +2,7 @@ class Solution {
             int count =0 ;
 
     public int reversePairs(int[] nums) {
-        count =0;
+        
 
         mergeSort(nums , 0 , nums.length-1);
 
