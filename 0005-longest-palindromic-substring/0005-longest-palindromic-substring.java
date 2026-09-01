@@ -1,54 +1,37 @@
 class Solution {
     public String longestPalindrome(String s) {
-       
 
-    if (s.length() <= 1)
-        return s;
-
-    String LPS = "";
-
-    for (int i = 1; i < s.length(); i++) {
-
-        // Consider odd length
-        int low = i;
-        int high = i;
-        // Keep extending in both left and right directions till the
-        // conditions for a palindrome are met
-        while(s.charAt(low) == s.charAt(high)) {
-            low--;
-            high++;
-
-            // Terminating condition if we reach the end/start of the string
-            if (low == -1 || high == s.length())
-                break;
+        if(s==null || s.length()<2){
+            return s;
         }
 
-        // Indexes low and high can be used to extract the substring
-        String palindrome = s.substring(low + 1, high);
-        if (palindrome.length() > LPS.length()) {
-            // Capture the longest palindrome found
-            LPS = palindrome;
-        }
+        int start =0;
+        int end =0;
+        
+        for(int i =0 ; i<s.length() ;i++){
 
-        // Consider even length
-        low = i - 1;
-        high = i;
-        while(s.charAt(low) == s.charAt(high)) {
-            low--;
-            high++;
+           int len1= expand(s,i,i);
+           int len2 = expand(s,i,i+1);
 
-            if (low == -1 || high == s.length())
-                break;
-        }
+           int len = Math.max(len1,len2);
 
-        palindrome = s.substring(low + 1, high);
-        if (palindrome.length() > LPS.length()) {
-            // Similarly, keep a track of the longest even length palindrome
-            LPS = palindrome;
+           if(len> end-start+1){
+            start = i -(len-1)/2;
+            end = i +(len/2);
+           }
         }
+         return s.substring(start , end+1);
+        
     }
 
-    return LPS;
-}
+    private int expand(String s , int left , int right){
+        while(left>=0 &&
+                right<s.length() &&
+                    s.charAt(left)==s.charAt(right)){
+                        left--;
+                        right++;
+                    }
 
+                    return right-left-1;
+    }
 }
