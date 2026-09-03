@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0334-increasing-triplet-subsequence) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0475-heaters) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0392-is-subsequence) |
@@ -1113,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0334-increasing-triplet-subsequence) |
 ## Database
 |  |
