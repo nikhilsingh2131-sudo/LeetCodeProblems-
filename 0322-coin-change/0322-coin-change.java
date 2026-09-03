@@ -1,24 +1,20 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
 
-        int[] dp = new int[amount + 1];
+        int []dp = new int[amount+1];
+         dp[0] = 0;
 
-        // Initially, every amount is impossible
-        Arrays.fill(dp, amount + 1);
+        for(int i =1 ; i<=amount ; i++){
+            dp[i] = Integer.MAX_VALUE;
 
-        // 0 amount banane ke liye 0 coins chahiye
-        dp[0] = 0;
 
-        for (int i = 1; i <= amount; i++) {
-
-            for (int coin : coins) {
-
-                if (coin <= i) {
+            for(int coin:coins){
+                if (coin <= i && dp[i - coin] != Integer.MAX_VALUE) {
                     dp[i] = Math.min(dp[i], dp[i - coin] + 1);
                 }
             }
-        }
 
-        return dp[amount] == amount + 1 ? -1 : dp[amount];
+        }
+        return dp[amount]==Integer.MAX_VALUE? -1 : dp[amount];
     }
 }
