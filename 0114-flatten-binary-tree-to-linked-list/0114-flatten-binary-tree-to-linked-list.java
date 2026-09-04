@@ -15,27 +15,18 @@
  */
 class Solution {
 
-    TreeNode prev = null; // Previous processed node
-
+    TreeNode prev = null ;
     public void flatten(TreeNode root) {
 
-        // Agar node null hai to kuch nahi karna
-        if (root == null)
-            return;
+        if(root==null) return ;
 
-        // Pehle RIGHT subtree flatten karo
         flatten(root.right);
-
-        // Fir LEFT subtree flatten karo
         flatten(root.left);
 
-        // Current node ka right previous node ban jayega
-        root.right = prev;
+        root.right = prev ; 
+        root.left = null ;
 
-        // Left hamesha null karna hai
-        root.left = null;
-
-        // Ab current node hi previous ban jayega
         prev = root;
+        
     }
 }
