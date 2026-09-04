@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0649-dota2-senate) |
+| [0686-repeated-string-match](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -1143,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
@@ -1203,4 +1205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0229-majority-element-ii) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
