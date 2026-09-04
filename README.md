@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1207-unique-number-of-occurrences) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1539-kth-missing-positive-number) |
