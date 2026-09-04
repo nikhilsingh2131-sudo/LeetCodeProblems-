@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
+| [1903-largest-odd-number-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1768-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1903-largest-odd-number-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2542-maximum-subsequence-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2542-maximum-subsequence-score) |
