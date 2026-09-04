@@ -1129,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0543-diameter-of-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Bellman–Ford Algorithm
 |  |
