@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0300-longest-increasing-subsequence) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -1168,4 +1172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0322-coin-change) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
