@@ -14,28 +14,23 @@
  * }
  */
 class Solution {
-
-     PriorityQueue<Integer> pq = new  PriorityQueue<>();
-
+    PriorityQueue<Integer> pq = new PriorityQueue<>();
     public int kthSmallest(TreeNode root, int k) {
 
-        dfs(root);
+        smallest(root);
 
-        for(int i =0 ; i<k-1 ;i++){
-            pq.poll();
-        }
-        return pq.peek();
+     for(int i =1;i<k ;i++){
+        pq.poll();
+     }
+     return pq.peek();
+        
     }
-
-    void dfs(TreeNode root){
-        if(root==null){
-            return ;
-        }
+    public void smallest(TreeNode root ){
+        if(root==null) return ;
 
         pq.add(root.val);
 
-         dfs(root.left);
-         dfs(root.right);
-        
+        smallest(root.left);
+        smallest(root.right);
     }
 }
