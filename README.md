@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0649-dota2-senate) |
+| [0796-rotate-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0981-time-based-key-value-store](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0981-time-based-key-value-store) |
@@ -1130,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
