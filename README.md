@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0399-evaluate-division) |
+| [0410-split-array-largest-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0435-non-overlapping-intervals) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0724-find-pivot-index) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0561-array-partition) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0493-reverse-pairs) |
@@ -806,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0509-fibonacci-number) |
