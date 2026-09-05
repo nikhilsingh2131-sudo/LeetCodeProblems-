@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1938-maximum-genetic-difference-query) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2336-smallest-number-in-infinite-set) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1657-determine-if-two-strings-are-close) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2029-stone-game-ix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1768-merge-strings-alternately) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2011-final-value-of-variable-after-performing-operations) |
