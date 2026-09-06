@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0139-word-break) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0498-diagonal-traverse) |
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0100-same-tree) |
@@ -1129,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0216-combination-sum-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3348-smallest-divisible-digit-product-ii) |
