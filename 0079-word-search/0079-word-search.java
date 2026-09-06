@@ -31,9 +31,9 @@ class Solution {
 
             return false;
         }
-
-        char temp = board[i][j];
+         char temp = board[i][j];
         board[i][j] = '#';
+       
 
         boolean found =
                 backtrack(board, word, i + 1, j, index + 1) ||
