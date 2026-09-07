@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1922-count-good-numbers) |
 ## Data Stream
 |  |
 | ------- |
