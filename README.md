@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0049-group-anagrams) |
@@ -1132,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0089-gray-code) |
