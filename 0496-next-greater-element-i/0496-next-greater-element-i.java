@@ -1,26 +1,22 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
 
-        HashMap<Integer, Integer> map = new HashMap<>();
-        Stack<Integer> stack = new Stack<>();
+        HashMap<Integer ,Integer> map = new HashMap<>();
+        Stack<Integer>st = new Stack<>();
 
-        // nums2 ko left se right traverse karo
-        for (int num : nums2) {
-
-            while (!stack.isEmpty() && stack.peek() < num) {
-                map.put(stack.pop(), num);
+        for(int i =0 ; i<nums2.length ; i++){
+            while(!st.isEmpty() && st.peek()<nums2[i]){
+                map.put(st.pop() , nums2[i]);
             }
-
-            stack.push(num);
+            st.push(nums2[i]);
         }
 
-        // nums1 ke answers
         int[] ans = new int[nums1.length];
 
-        for (int i = 0; i < nums1.length; i++) {
-            ans[i] = map.getOrDefault(nums1[i], -1);
+        for(int i=0 ; i<nums1.length ; i++){
+          ans[i] =  map.getOrDefault(nums1[i], -1);
         }
-
-        return ans;
+        return ans ;
+        
     }
 }
