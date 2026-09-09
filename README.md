@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0216-combination-sum-iii) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1534-count-good-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1260,4 +1264,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0139-word-break) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
