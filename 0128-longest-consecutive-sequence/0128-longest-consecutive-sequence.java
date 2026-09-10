@@ -3,29 +3,29 @@ class Solution {
 
         Set<Integer> set = new HashSet<>();
 
-        for(int num :nums){
+
+        for(int num : nums){
             set.add(num);
         }
 
-        int max =0;
+      
+        int ans =0;
+        for(int num : set ){
 
-        for(int num : set){
-
-           
-            
             if(!set.contains(num-1)){
-                int curr = num ;
-                 int count =1;
-
-                while(set.contains(curr+1)){
+                 int current = num;
+                 int count = 1;
+                while(set.contains(current+1)){
                     count++;
-                    curr++;
+                    current++;
                 }
-                 max = Math.max(max, count);
-
+                ans = Math.max(ans , count);
             }
            
         }
-        return max;
+          
+
+        return ans ;
+        
     }
 }
