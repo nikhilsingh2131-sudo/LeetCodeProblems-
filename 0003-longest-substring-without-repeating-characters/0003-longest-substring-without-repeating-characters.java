@@ -4,20 +4,18 @@ class Solution {
         int n = s.length();
 
         int max =0;
-        for(int i =0 ; i<s.length() ; i++){
-            char ch = s.charAt(i);
 
-            int j=i+1;
-            int count=1;
-            Set<Character> set = new HashSet<>();
-            set.add(s.charAt(i));
+        Set<Character> set = new HashSet<>();
+        int left =0;
 
-            while(j<n && !set.contains(s.charAt(j))){
-              set.add(s.charAt(j));
-              count++;
-              j++;
-            }
-            max = Math.max(max, count);
+        for(int right =0 ; right<n ; right++){
+          while(set.contains(s.charAt(right))){
+             set.remove(s.charAt(left));
+             left++;
+          }
+
+          set.add(s.charAt(right));
+          max = Math.max(max , right-left+1);
         }
         return max;
     }
