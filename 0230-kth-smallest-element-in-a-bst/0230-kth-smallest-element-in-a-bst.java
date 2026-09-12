@@ -14,32 +14,28 @@
  * }
  */
 class Solution {
+    int count =0;
+    int ans =0;
     public int kthSmallest(TreeNode root, int k) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
 
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
+        dfs(root , k);
 
-        while(!q.isEmpty()){
-            int size = q.size();
-
-            for(int i =0 ; i<size ; i++){
-                TreeNode node = q.poll();
-                pq.add(node.val);
-
-                if(node.left!=null){
-                    q.offer(node.left);
-                }
-
-                if(node.right!=null){
-                    q.offer(node.right);
-                }
-            }
+        return ans;
+        
+    }
+    public void dfs(TreeNode root,int k){
+        if(root==null){
+         return;
         }
 
-        for(int i =0 ; i<k-1 ; i++){
-          pq.poll();
+        dfs(root.left , k);
+
+        count++;
+
+        if(count==k){
+            ans = root.val;
         }
-        return pq.peek();
+
+        dfs(root.right , k);
     }
 }
