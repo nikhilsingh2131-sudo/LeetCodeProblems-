@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0846-hand-of-straights) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0930-binary-subarrays-with-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0930-binary-subarrays-with-sum) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0682-baseball-game) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0846-hand-of-straights](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0846-hand-of-straights) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0621-task-scheduler) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1657-determine-if-two-strings-are-close) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1046-last-stone-weight) |
@@ -641,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
