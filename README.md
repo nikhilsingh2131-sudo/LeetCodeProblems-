@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0835-image-overlap](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0896-monotonic-array) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1260-shift-2d-grid) |
