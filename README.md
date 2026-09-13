@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0844-backspace-string-compare) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0739-daily-temperatures) |
@@ -863,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0790-domino-and-tromino-tiling) |
@@ -1197,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Nim Game
 |  |
