@@ -4,11 +4,15 @@ class Solution {
         Set<Integer> set = new HashSet<>();
 
         for(int num :nums){
-            set.add(num);
+           if(set.contains(num)){
+            return true;
+           }
+
+           set.add(num);
         }
 
     
-        return nums.length != set.size() ;
+        return false;
         
     }
 }
