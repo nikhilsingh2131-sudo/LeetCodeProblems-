@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0064-minimum-path-sum) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0148-sort-list) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0064-minimum-path-sum) |
