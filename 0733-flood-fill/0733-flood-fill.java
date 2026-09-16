@@ -1,45 +1,34 @@
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
 
-        int oldColor = image[sr][sc];
+        int oldcol = image[sr][sc];
 
-        if(oldColor == color){
+        if(oldcol== color){
             return image;
         }
 
-        dfs(image , sr , sc ,oldColor , color);
-
-        return image ; 
+        dfs(image , sr ,sc  ,color ,oldcol);
+        return image;
         
     }
+    public void dfs(int[][] image, int sr, int sc, int color , int oldcol){
 
-    private void dfs(int[][] image, int row, int col,
-        int oldColor, int newColor) {
+        int n =image.length ;
+        int m = image[0].length ;
 
-        if(row<0 || row>= image.length||
-             col < 0 || col >= image[0].length){
-              return ;
-        }
-
-         // Agar current cell oldColor ka nahi hai
-        if (image[row][col] != oldColor) {
+        if(sr<0 || sc<0 || sr>=n || sc>=m){
             return;
         }
-                                          
 
-        image[row][col] = newColor;
-
-       
-                          // Up
-        dfs(image, row - 1, col, oldColor, newColor);
-
-        // Down
-        dfs(image, row + 1, col, oldColor, newColor);
-
-        // Left
-        dfs(image, row, col - 1, oldColor, newColor);
-
-        // Right
-        dfs(image, row, col + 1, oldColor, newColor);
+        if(image[sr][sc]!=oldcol){
+            return;
         }
+
+        image[sr][sc] = color;
+
+        dfs(image , sr+1 ,sc , color , oldcol);
+        dfs(image , sr-1 ,sc , color, oldcol);
+        dfs(image , sr ,sc+1 , color , oldcol);
+        dfs(image , sr ,sc-1 , color , oldcol);
+    }
 }
