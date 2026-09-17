@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1657-determine-if-two-strings-are-close) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1512-number-of-good-pairs) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
@@ -895,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1563-stone-game-v) |
