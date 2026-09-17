@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1207-unique-number-of-occurrences) |
+| [1219-path-with-maximum-gold](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1288-remove-covered-intervals) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1217,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0216-combination-sum-iii) |
+| [1219-path-with-maximum-gold](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1219-path-with-maximum-gold) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Randomized
 |  |
