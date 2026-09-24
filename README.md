@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1245,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1406-stone-game-iii) |
@@ -1265,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
@@ -1305,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -1435,4 +1439,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
