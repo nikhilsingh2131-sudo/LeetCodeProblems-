@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1100,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
