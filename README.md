@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0424-longest-repeating-character-replacement) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0621-task-scheduler) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0394-decode-string) |
