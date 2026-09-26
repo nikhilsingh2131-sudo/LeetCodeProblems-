@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0930-binary-subarrays-with-sum) |
+| [0941-valid-mountain-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0994-rotting-oranges](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0994-rotting-oranges) |
