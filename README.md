@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0678-valid-parenthesis-string) |
