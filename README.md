@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2352-equal-row-and-column-pairs) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1672-richest-customer-wealth) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1375,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Nim Game
 |  |
 | ------- |
