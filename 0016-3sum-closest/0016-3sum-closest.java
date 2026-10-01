@@ -5,30 +5,28 @@ class Solution {
 
         int ans = nums[0] + nums[1] + nums[2];
 
-        for(int i = 0 ; i < nums.length - 2 ; i++){
+        for(int i = 0; i < nums.length - 2; i++){
 
-            if(i > 0 && nums[i] == nums[i-1]){
+            if(i > 0 && nums[i] == nums[i - 1]){
                 continue;
             }
 
-            int left = i + 1;
-            int right = nums.length - 1;
+            int j = i + 1;
+            int k = nums.length - 1;
 
-            while(left < right){
+            while(j < k){
 
-                int sum = nums[i] + nums[left] + nums[right];
+                int sum = nums[i] + nums[j] + nums[k];
 
                 if(Math.abs(target - sum) < Math.abs(target - ans)){
                     ans = sum;
                 }
 
                 if(sum < target){
-                    left++;
-                }
-                else if(sum > target){
-                    right--;
-                }
-                else{
+                    j++;
+                }else if(sum > target){
+                    k--;
+                }else{
                     return sum;
                 }
             }
