@@ -1,23 +1,22 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
 
-        int count =0;
-       
-        int currSum =0;
+        int ans =0;
+        int currsum =0;
+      
 
         Map<Integer , Integer> map = new HashMap<>();
-        map.put(0, 1);
+          map.put(0,1);
 
-        for(int num : nums){
-            currSum += num;
+        for(int num:nums){
+            currsum += num;
 
-            if(map.containsKey(currSum-k)){
-                count += map.get(currSum-k);
+            if(map.containsKey(currsum-k)){
+                ans += map.get(currsum-k);
             }
 
-            map.put(currSum , map.getOrDefault(currSum,0)+1);
+            map.put(currsum , map.getOrDefault(currsum , 0)+1);
         }
-
-       return count;
+        return ans ;
     }
 }
