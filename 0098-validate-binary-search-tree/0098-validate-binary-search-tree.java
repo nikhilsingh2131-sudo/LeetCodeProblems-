@@ -18,17 +18,15 @@ class Solution {
 
         return check(root , Long.MIN_VALUE , Long.MAX_VALUE);
         
-    }
-    public boolean check(TreeNode node , long min , long max){
-          if(node==null){
-            return true ;
+    }public boolean check(TreeNode root , long min, long max){
+        if(root==null){
+            return true;
         }
-
-        if(node.val<=min || node.val>=max){
+        if(root.val<=min || root.val>=max){
             return false;
         }
 
-        return check(node.left , min , node.val) &&
-               check(node.right , node.val , max);
+        return check(root.left , min , root.val) &&
+               check(root.right , root.val , max);
     }
 }
