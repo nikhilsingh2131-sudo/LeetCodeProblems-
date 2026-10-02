@@ -1,40 +1,28 @@
 class Solution {
     public String convert(String s, int numRows) {
 
-         if(numRows == 1 || numRows >= s.length()){
+        if(numRows == 1){
             return s;
         }
-        StringBuilder[] rows = new StringBuilder[numRows];
 
-        for(int i =0 ; i<numRows ; i++){
-            rows[i] = new StringBuilder();
-        }
+        String result = "";
 
-        int row =0 ;
-        int direction =1 ;
+        int jumps = (numRows - 1) * 2;
 
-        for(char ch : s.toCharArray()){
-            rows[row].append(ch);
+        for(int i = 0; i < numRows; i++){
 
-            if(row ==0){
-                direction = 1;
+            for(int j = i; j < s.length(); j += jumps){
+
+                result += s.charAt(j);
+
+                if(i > 0 && i < numRows - 1 
+                   && (j + jumps - 2 * i) < s.length()){
+
+                    result += s.charAt(j + jumps - 2 * i);
+                }
             }
-
-            if(row == numRows-1){
-                direction = -1;
-            }
-
-            row += direction;
         }
 
-        StringBuilder ans = new StringBuilder();
-
-        for(StringBuilder r : rows){
-            ans.append(r);
-        }
-
-        return ans.toString();
-
-        
+        return result;
     }
 }
