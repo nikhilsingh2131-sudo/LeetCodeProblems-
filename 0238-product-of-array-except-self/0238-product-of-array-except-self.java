@@ -6,9 +6,8 @@ class Solution {
         int left = 1;
 
         for(int i =0 ; i< nums.length ; i++){
-            ans[i] = left ; 
-
-            left *= nums[i];
+           ans[i] = left ;
+           left *= nums[i];
         }
 
         int right = 1;
