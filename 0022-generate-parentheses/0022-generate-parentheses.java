@@ -1,39 +1,37 @@
 class Solution {
+    public List<String> generateParenthesis(int n) { 
+        List<String> ans = new ArrayList<>();
 
-    private boolean valid(String s){
-      int  count  =0;
-
-      for(char ch : s.toCharArray()){
-        if(ch=='('){
-            count ++;
-        }else{
-            count--;
-        }
-
-        if(count<0){
-            return false;
-        }
-      }
-
-      return count==0;
-    }
-
-    public void helper(String curr ,int n ,ArrayList<String> res  ){
+        helper( "" , n, ans);
+        return ans ;
+    }public void helper(String curr , int n , List<String>ans){
         if(curr.length() == 2*n){
-           if(valid(curr)){
-            res.add(curr);
-           }
-           return ;
+            if(valid(curr)){
+                ans.add(curr);
+            }
+            return ;
         }
 
-        helper(curr +"(" , n , res);
-        helper(curr +")" , n ,res);
-    }
-    public List<String> generateParenthesis(int n) {
+            helper(curr+"(" , n , ans);
+            helper(curr+")" , n, ans);
+        }
+        public boolean valid(String curr){
+            int count =0 ;
 
-        ArrayList<String> res = new ArrayList<>();
-      helper("" , n ,res);
-      return res;
-        
-    }
+            for(char ch: curr.toCharArray()){
+                if(ch =='('){
+                    count ++ ;
+                }else{
+                    count --;
+                     if(count < 0){
+                    return false;
+                }
+                }
+            }
+            if(count!=0){
+                return false;
+            }
+            return true;
+        }
+    
 }
