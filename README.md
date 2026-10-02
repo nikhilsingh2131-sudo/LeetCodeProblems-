@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0981-time-based-key-value-store) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0997-find-the-town-judge) |
 | [1096-brace-expansion-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1207-unique-number-of-occurrences) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1004-max-consecutive-ones-iii) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0621-task-scheduler) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
