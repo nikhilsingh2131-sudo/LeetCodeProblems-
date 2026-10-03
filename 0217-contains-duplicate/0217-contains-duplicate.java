@@ -3,16 +3,14 @@ class Solution {
 
         Set<Integer> set = new HashSet<>();
 
-        for(int num :nums){
-           if(set.contains(num)){
-            return true;
-           }
-
-           set.add(num);
+        for(int num: nums){
+            set.add(num);
         }
 
-    
-        return false;
+        int n = nums.length ;
+        int m = set.size();
+
+        return n != m ;
         
     }
 }
