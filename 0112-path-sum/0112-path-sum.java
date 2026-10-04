@@ -14,36 +14,27 @@
  * }
  */
 class Solution {
-    int sum =0;
-    boolean result = false ;
+    boolean ans = false;
+    public boolean hasPathSum(TreeNode root, int targetSum) {
 
-    public void helper(TreeNode node  , int targetSum , int sum){
-        if(node == null){
+        dfs(root , 0,targetSum);
+        return ans ;
+        
+    }public void dfs(TreeNode root , int sum , int target){
+        if(root==null){
             return ;
         }
 
-        sum = sum+ node.val;
+        sum +=  root.val;
 
-        if(node.left==null && node.right== null){
-            if(targetSum == sum){
-                result = true;
-            }else{
-                return ;
+        if (root.left == null && root.right == null) {
+            if (sum == target) {
+                ans = true;
             }
+            return;
         }
 
-        helper(node.left , targetSum , sum);
-        helper(node.right , targetSum , sum);
-    }
-    public boolean hasPathSum(TreeNode root, int targetSum) {
-
-       if(root==null){
-        return result ;
-       }
-
-       helper(root , targetSum  ,0);
-
-       return result ;
-        
+        dfs(root.left , sum , target) ;
+        dfs(root.right , sum , target);
     }
 }
