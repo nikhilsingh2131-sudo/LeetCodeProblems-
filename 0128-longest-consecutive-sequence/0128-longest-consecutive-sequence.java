@@ -10,13 +10,13 @@ class Solution {
         int max =0;
 
         for(int num:set){
-            int no = num;
-            if(!set.contains(no-1)){
+           
+            if(!set.contains(num-1)){
                 int count =0;
 
-                while(set.contains(no)){
+                while(set.contains(num)){
                     count++;
-                    no++;
+                    num++;
 
                 }
 
