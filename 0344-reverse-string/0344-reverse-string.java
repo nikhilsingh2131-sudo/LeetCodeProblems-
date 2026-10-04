@@ -1,17 +1,20 @@
 class Solution {
     public void reverseString(char[] s) {
+       
 
-        int i =0;
-        int j= s.length-1;
 
-        while(i<j){
-           char temp = s[i];
-           s[i] = s[j];
-           s[j] = temp;   
-
-            i++;
-            j--;
-        }
+        solve(s , 0 );
         
+    }public void solve(char[]s , int i ){
+         int n = s.length;
+        if(i>=n/2){
+            return;
+        }
+
+        char temp = s[i];
+        s[i] = s[n-i-1];
+        s[n-i-1] = temp;
+
+        solve(s , i+1);
     }
 }
