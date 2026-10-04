@@ -1391,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0089-gray-code) |
