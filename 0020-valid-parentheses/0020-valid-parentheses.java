@@ -1,10 +1,9 @@
 class Solution {
     public boolean isValid(String s) {
-
         Stack<Character> st = new Stack<>();
 
-        for(char ch : s.toCharArray()){
-          if(ch==')' && !st.isEmpty() && st.peek()=='('){
+        for(char ch: s.toCharArray()){
+            if(ch==')' && !st.isEmpty() && st.peek()=='('){
             st.pop();
           }else if(ch==']' && !st.isEmpty() && st.peek()=='['){
             st.pop();
