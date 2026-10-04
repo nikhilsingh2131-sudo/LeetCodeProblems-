@@ -17,13 +17,16 @@ class Solution {
                     map.remove(leftChar);
                 }
                 left++;
+
             }
 
-            map.put(ch ,map.getOrDefault(ch,0)+1);
+            map.put(ch , map.getOrDefault(ch,0)+1);
 
-            int count = right-left+1;
+             int len = right-left+1 ;
 
-            max = Math.max(max , count);
+           max = Math.max(max , len);
+
+          
         }
         return max;
     }
