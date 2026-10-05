@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0997-find-the-town-judge) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1096-brace-expansion-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1331-rank-transform-of-an-array) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0981-time-based-key-value-store) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1021-remove-outermost-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1096-brace-expansion-ii) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1004-max-consecutive-ones-iii) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1115,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0477-total-hamming-distance) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1386-cinema-seat-allocation) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1938-maximum-genetic-difference-query) |
