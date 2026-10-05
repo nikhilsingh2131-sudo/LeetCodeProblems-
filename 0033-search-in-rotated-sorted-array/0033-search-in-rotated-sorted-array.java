@@ -12,19 +12,24 @@ class Solution {
                 return mid;
             }
 
-            if(nums[left] <= nums[mid]) {
+            else if(nums[left] <= nums[mid]) {
 
+                // Left part sorted
                 if(nums[left] <= target && target < nums[mid]) {
                     right = mid - 1;
-                } else {
+                }
+                else {
                     left = mid + 1;
                 }
+            }
 
-            } else {
+            else {
 
+                // Right part sorted
                 if(nums[mid] < target && target <= nums[right]) {
                     left = mid + 1;
-                } else {
+                }
+                else {
                     right = mid - 1;
                 }
             }
