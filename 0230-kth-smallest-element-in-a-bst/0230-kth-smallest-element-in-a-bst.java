@@ -15,24 +15,20 @@
  */
 class Solution {
     int count =0;
-    int ans =0;
+    int ans = 0;
     public int kthSmallest(TreeNode root, int k) {
-
-        dfs(root , k);
-
-        return ans;
+        dfs(root ,k);
+        return ans ;
         
-    }
-    public void dfs(TreeNode root,int k){
+    }public void dfs(TreeNode root , int k){
         if(root==null){
-         return;
+            return ;
         }
 
-        dfs(root.left , k);
-
+        dfs(root.left ,  k);
         count++;
 
-        if(count==k){
+        if(count == k){
             ans = root.val;
         }
 
