@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2542-maximum-subsequence-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2542-maximum-subsequence-score) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -871,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
