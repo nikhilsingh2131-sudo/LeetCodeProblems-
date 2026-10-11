@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2542-maximum-subsequence-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2542-maximum-subsequence-score) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1534-count-good-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3499-maximize-active-section-with-trade-i) |
