@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0064-minimum-path-sum) |
@@ -945,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0130-surrounded-regions) |
@@ -1164,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0415-add-strings) |
