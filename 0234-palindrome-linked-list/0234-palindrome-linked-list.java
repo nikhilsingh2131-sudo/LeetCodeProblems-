@@ -1,3 +1,13 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public boolean isPalindrome(ListNode head) {
 
@@ -5,24 +15,19 @@ class Solution {
 
         ListNode curr = head;
 
-        // Saare elements stack mein daalo
-        while(curr != null) {
+        while(curr!= null){
             st.push(curr.val);
-            curr = curr.next;
+            curr = curr.next ;
         }
 
-        // Linked List ko dobara traverse karo
-        curr = head;
-
-        while(curr != null) {
-
-            if(st.pop() != curr.val) {
+        curr = head ;
+        while(curr!=null){
+            if(curr.val != st.pop()){
                 return false;
             }
 
             curr = curr.next;
         }
-
-        return true;
+        return true ;
     }
 }
