@@ -1,24 +1,31 @@
+
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
 
-        // aage se shift krna padega isisliye piche se itrate krenge
-        
-    int i = m-1 , j=n-1 ,k=m+n-1;
-    while(i>=0 && j >= 0){
-        if(nums1[i]>nums2[j]){
-            nums1[k--] = nums1[i--];
-            
-        }else{
-            nums1[k--] = nums2[j--];
-            
+        int i = 0;
+        int j = 0;
+        int k = 0;
+
+        int[] arr = new int[m];
+
+        for (int x = 0; x < m; x++) {
+            arr[x] = nums1[x];
         }
-        
-    }
 
-    while(j>=0){
-        nums1[k--] = nums2[j--];
-      
+        while (i < m && j < n) {
+            if (arr[i] <= nums2[j]) {
+                nums1[k++] = arr[i++];
+            } else {
+                nums1[k++] = nums2[j++];
+            }
+        }
 
-    }
+        while (i < m) {
+            nums1[k++] = arr[i++];
+        }
+
+        while (j < n) {
+            nums1[k++] = nums2[j++];
+        }
     }
 }
