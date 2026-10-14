@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0318-maximum-product-of-word-lengths) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0410-split-array-largest-sum) |
@@ -1140,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0342-power-of-four) |
@@ -1477,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0287-find-the-duplicate-number) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -1657,4 +1662,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
