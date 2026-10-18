@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0912-sort-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0695-max-area-of-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1067,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1211,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1298,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -1344,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -1361,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -1387,6 +1396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Trie
 |  |
@@ -1680,4 +1690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0287-find-the-duplicate-number) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
