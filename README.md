@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1920-build-array-from-permutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1929-concatenation-of-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1929-concatenation-of-array) |
 | [1938-maximum-genetic-difference-query](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1938-maximum-genetic-difference-query) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1209,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2352-equal-row-and-column-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/2352-equal-row-and-column-pairs) |
