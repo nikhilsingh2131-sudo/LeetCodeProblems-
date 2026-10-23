@@ -968,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0994-rotting-oranges) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1028,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0997-find-the-town-judge) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1791-find-center-of-star-graph](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1159,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0872-leaf-similar-trees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0993-cousins-in-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1728,4 +1731,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0037-sudoku-solver) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
