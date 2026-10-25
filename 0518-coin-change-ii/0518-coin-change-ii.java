@@ -1,29 +1,31 @@
 class Solution {
     public int change(int amount, int[] coins) {
-        int [][] dp =new int[coins.length][amount+1];
-         for (int[] row : dp) {
-            Arrays.fill(row, -1);
+        int n = coins.length ; 
+        int [][] dp =new int[n][amount+1];
+
+           for (int t = 0; t <= amount; t++) {
+            if (t % coins[0] == 0) {
+                dp[0][t] = 1;
+            } else {
+                dp[0][t] = 0;
+            }
         }
 
-      return solve(coins , coins.length -1 , amount,dp);
-
-    }public int solve(int [] coins , int index , int amount ,  int [][] dp){
-        if(amount ==0) return 1 ;
-
-        if(index == 0){
-            return amount % coins[0] == 0 ? 1 : 0 ;
-        }
-        if(dp[index][amount]!=-1){
-            return dp[index][amount];
-        }
+        for(int index =1 ;index < n ; index ++){
+            for(int t =0 ; t<= amount ; t++){
+                  int notTake =  dp[index-1][t];
+                  int take =0;
         
-        int notTake = solve(coins , index-1 , amount , dp);
-        int take =0;
-        
-        if(coins[index]<= amount){
-             take = solve(coins , index , amount - coins[index] , dp);
+              if(coins[index]<= t){
+            take = dp[index][t - coins[index]];
+               }
+               dp[index][t] = notTake + take ;
+            }
         }
 
-        return dp[index][amount] = notTake + take ;
+        
+
+      return dp[n-1][amount];
+
     }
 }
