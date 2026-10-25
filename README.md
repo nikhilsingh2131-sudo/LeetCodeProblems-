@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0506-relative-ranks) |
+| [0518-coin-change-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0561-array-partition) |
@@ -1094,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0746-min-cost-climbing-stairs) |
@@ -1665,10 +1667,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0518-coin-change-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
