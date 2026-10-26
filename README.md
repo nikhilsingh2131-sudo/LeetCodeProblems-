@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0443-string-compression) |
+| [0482-license-key-formatting](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0482-license-key-formatting) |
 | [0504-base-7](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0521-longest-uncommon-subsequence-i) |
