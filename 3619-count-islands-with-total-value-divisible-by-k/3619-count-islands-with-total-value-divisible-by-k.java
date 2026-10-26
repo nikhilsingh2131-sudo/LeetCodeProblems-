@@ -1,51 +1,13 @@
 
 class Solution {
     public int countIslands(int[][] grid, int k) {
-
-        int m = grid.length;
-        int n = grid[0].length;
         int count = 0;
 
-        int[] dr = {-1, 1, 0, 0};
-        int[] dc = {0, 0, -1, 1};
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[0].length; j++) {
 
                 if (grid[i][j] > 0) {
-
-                    Stack<int[]> st = new Stack<>();
-
-                    long sum = 0;
-
-                    st.push(new int[]{i, j});
-                    sum += grid[i][j];
-                    grid[i][j] = 0;
-
-                    while (!st.isEmpty()) {
-
-                        int[] cell = st.pop();
-
-                        int r = cell[0];
-                        int c = cell[1];
-
-                        for (int d = 0; d < 4; d++) {
-
-                            int nr = r + dr[d];
-                            int nc = c + dc[d];
-
-                            if (nr >= 0 && nr < m &&
-                                nc >= 0 && nc < n &&
-                                grid[nr][nc] > 0) {
-
-                                sum += grid[nr][nc];
-
-                                st.push(new int[]{nr, nc});
-
-                                grid[nr][nc] = 0;
-                            }
-                        }
-                    }
+                    long sum = dfs(grid, i, j);
 
                     if (sum % k == 0) {
                         count++;
@@ -55,5 +17,23 @@ class Solution {
         }
 
         return count;
+    }
+
+    long dfs(int[][] grid, int i, int j) {
+        if (i < 0 || j < 0 ||
+            i >= grid.length || j >= grid[0].length ||
+            grid[i][j] == 0) {
+            return 0;
+        }
+
+        long sum = grid[i][j];
+        grid[i][j] = 0;
+
+        sum += dfs(grid, i - 1, j);
+        sum += dfs(grid, i + 1, j);
+        sum += dfs(grid, i, j - 1);
+        sum += dfs(grid, i, j + 1);
+
+        return sum;
     }
 }
