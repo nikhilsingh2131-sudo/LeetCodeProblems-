@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0846-hand-of-straights) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0724-find-pivot-index) |
