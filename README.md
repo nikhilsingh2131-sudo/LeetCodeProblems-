@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0342-power-of-four) |
@@ -988,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0322-coin-change) |
@@ -1116,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0337-house-robber-iii) |
@@ -1703,12 +1706,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0518-coin-change-ii) |
 ## Boyer–Moore Majority Vote Algorithm
