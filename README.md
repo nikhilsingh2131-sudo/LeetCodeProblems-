@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1572-matrix-diagonal-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1042,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1672-richest-customer-wealth) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
