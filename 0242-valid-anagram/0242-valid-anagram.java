@@ -4,20 +4,18 @@ class Solution {
             return false;
         }
 
-        int[]freq = new int[26];
+        int[] freq = new int[26];
 
-        for(int i =0 ; i< s.length() ; i++){
-            freq[s.charAt(i) - 'a']++;
-            freq[t.charAt(i) - 'a']--;
+        for(char ch : s.toCharArray()){
+            freq[ch-'a']++;
         }
-        
 
-        for(int i =0 ; i<26 ;i++){
-            if(freq[i]!=0){
+        for(char ch: t.toCharArray()){
+            if(freq[ch-'a']<=0){
                 return false;
             }
-
+              freq[ch - 'a']--;
         }
-        return true;
+        return true ;
     }
 }
