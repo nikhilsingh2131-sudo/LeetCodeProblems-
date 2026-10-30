@@ -5,8 +5,8 @@ class Solution {
 
         Stack<Integer> st = new Stack<>();
 
-        for(int i=0 ; i<n ;i++){
-           while( !st.isEmpty() && temperatures[i]> temperatures[st.peek()]){
+        for(int i =0 ; i< n ; i++){
+            while(!st.isEmpty() && temperatures[i]>temperatures[st.peek()]){
                 ans[st.peek()] = i-st.pop();
             }
             st.push(i);
