@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0492-construct-the-rectangle) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0485-max-consecutive-ones) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0561-array-partition) |
