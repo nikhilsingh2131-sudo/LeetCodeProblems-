@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0695-max-area-of-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1254-number-of-closed-islands](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1039,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1631-path-with-minimum-effort) |
@@ -1075,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1572-matrix-diagonal-sum) |
@@ -1252,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-flower-planting-with-no-adjacent](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1267-count-servers-that-communicate) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
