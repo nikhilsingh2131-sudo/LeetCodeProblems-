@@ -8,9 +8,9 @@ class Solution {
 
             if(map.containsKey(diff)){
                 return new int[]{map.get(diff) , i};
-            }else{
-                map.put(nums[i] , i);
             }
+
+            map.put(nums[i] , i);
         }
         
         return new int[]{-1 ,-1};
