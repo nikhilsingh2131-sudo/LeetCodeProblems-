@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0326-power-of-three) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0287-find-the-duplicate-number) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -981,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0300-longest-increasing-subsequence) |
@@ -1297,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/0338-counting-bits) |
