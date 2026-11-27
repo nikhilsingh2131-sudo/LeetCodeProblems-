@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -934,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
@@ -1238,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/nikhilsingh2131-sudo/LeetCodeProblems-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Topological Sort
 |  |
 | ------- |
